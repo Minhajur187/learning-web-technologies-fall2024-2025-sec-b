@@ -1,0 +1,29 @@
+<products>
+<product>
+<id> 11 /<id>
+<name> samsung </name>
+<unit_price> 3500 </unit_price>
+<stock> 50</stock>
+<staus> 1 </staus>
+</product>
+
+<product>
+
+<id> 20 /<id>
+<name> htc </name>
+<unit_price> 65300 </unit_price>
+<stock> 35 </stock>
+<staus> 0 </staus>
+
+</product>
+ 
+ <product>
+
+<id> 23 /<id>
+<name> nokia </name>
+<unit_price> 25100 </unit_price>
+<stock> 100 </stock>
+<staus> 1 </staus>
+
+</product>
+</products>
