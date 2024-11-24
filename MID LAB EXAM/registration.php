@@ -1,7 +1,5 @@
-
-
 <center>
-    <form action="../controls/registrationCheck.php" method="POST" enctype="">
+    <form action="registrationCheck.php" method="POST" enctype="">
         <table border="0">
             <tr>
                 <td>
