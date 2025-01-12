@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Management</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Admin Panel</h1>
+
+    
+    <form id="registerForm">
+        <h3>Register Employee</h3>
+        <input type="text" id="name" placeholder="Name">
+        <input type="text" id="contact_no" placeholder="Contact No">
+        <input type="text" id="username" placeholder="Username">
+        <input type="password" id="password" placeholder="Password">
+        <button type="button" id="registerBtn">Register</button>
+    </form>
+
+    
+    <form id="searchForm">
+        <h3>Search Employee</h3>
+        <input type="text" id="keyword" placeholder="Search by name or contact">
+        <button type="button" id="searchBtn">Search</button>
+    </form>
+
+
+    <div id="employeeList">
+        <h3>Employee List</h3>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
